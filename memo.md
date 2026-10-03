@@ -2,7 +2,7 @@
 # Memo Teardown — Notion (Notion AI)
 
 **Họ tên:** Nguyễn Quang Huy
-**Mã sinh viên:** BCS230043
+**Mã sinh viên:** 2A202602421
 
 **Vì sao chọn sản phẩm này:** Notion là ví dụ điển hình nhất của việc chuyển từ một công cụ SaaS truyền thống (wiki/docs) sang một sản phẩm AI-native. Quá trình ra mắt Notion AI minh chứng rõ nét cho nguyên lý: AI Model có thể bị bắt kịp, nhưng "Moat" (hào cản) thực sự nằm ở việc AI được nhúng thẳng vào luồng làm việc (workflow) và dữ liệu (data) có sẵn của người dùng.
 
